@@ -1,0 +1,20 @@
+/* Justin Liao 12/8/21 */
+
+.contactme {
+    font-size: 20px; color: rgb(60, 136, 235);
+    font-style: italic;
+  }
+
+.contactb {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
